@@ -12,9 +12,21 @@ Finally, cities that are searched via the search input will be saved. From there
 
 **Technologies Used:**
 
--HTML, CSS
--Javascript, JQuery, and AJAX
--Bootstrap CSS
--Open Weather API
+- HTML, CSS
+- Javascript, JQuery, and AJAX
+- Bootstrap CSS
+- Open Weather API
+
+### Homepage
+
+![Alt Text](./assets/images/weatherproject1.png "homepage") <br />
+
+### Sample City 1: San Diego (High UV Index)
+
+![Alt Text](./assets/images/weatherproject2.png "san diego search") <br />
+
+### Sample City 2: Anchorage (Low UV Index)
+
+![Alt Text](./assets/images/weatherproject3.png "anchorage alaska search") <br />
 
 Link to Weather Dashboard: https://joeytmab.github.io/Realtime-Weather-Dashboard/
