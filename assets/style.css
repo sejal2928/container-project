@@ -1,0 +1,47 @@
+/* styles for UL */
+ul {
+    list-style: none;
+
+}
+
+.highUV {
+    background-color: rgba(255, 0, 0, 0.726);
+}
+
+.lowUV {
+    background-color: rgb(55, 252, 6);
+}
+
+.warningUV{
+    background-color: rgb(255, 255, 11);
+}
+/* styles for list */
+li {
+    border-bottom: 1px solid lightgray;
+    text-align: left;
+    padding-left: 10px;
+}
+/* styles for card titles  */
+.card-title {
+    font-size: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#search-icon {
+    width: 20px;
+    height: 20px;
+}
+/* styles for five day forecast colors */
+.fiveDayColor {
+    padding: 20px;
+    background-color: #00e1ff;
+    color: white;
+    float: left;
+    margin: 10px;
+    border: 1px solid lightgray;
+
+}
