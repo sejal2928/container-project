@@ -2,7 +2,7 @@
 
 ## Info Regarding This Project:
 
-Weather Dashboard presenting real-time weather conditions of a city, while also including the five day forecast.
+Weather Dashboard presents real-time weather conditions of a city, while also including the five-day forecast.
 
 When searching for a city, current and future conditions are presented. This includes temperature, humidity, UV index, and wind speed, if any.
 
@@ -16,6 +16,7 @@ Finally, cities that are searched via the search input will be saved. From there
 - Javascript, JQuery, and AJAX
 - Bootstrap CSS
 - Open Weather API
+- Docker
 
 ### Homepage
 
