@@ -29,4 +29,4 @@ Finally, cities that are searched via the search input will be saved. From there
 
 ![Alt Text](./assets/images/weatherproject3.png "anchorage alaska search") <br />
 
-Link to Weather Dashboard: https://joeytmab.github.io/Realtime-Weather-Dashboard/
+Link to Weather Dashboard: https://github.io/Realtime-Weather-Dashboard/
