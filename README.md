@@ -18,16 +18,5 @@ Finally, cities that are searched via the search input will be saved. From there
 - Open Weather API
 - Docker
 
-### Homepage
 
-![Alt Text](./assets/images/weatherproject1.png "homepage") <br />
-
-### Sample City 1: San Diego (High UV Index)
-
-![Alt Text](./assets/images/weatherproject2.png "san diego search") <br />
-
-### Sample City 2: Anchorage (Low UV Index)
-
-![Alt Text](./assets/images/weatherproject3.png "anchorage alaska search") <br />
-
-Link to Weather Dashboard: https://github.io/Realtime-Weather-Dashboard/
+Link to Weather Dashboard: https://joeytmab.github.io/Realtime-Weather-Dashboard/
